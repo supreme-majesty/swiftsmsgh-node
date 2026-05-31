@@ -1,5 +1,13 @@
 # swiftsmsgh-api-sdk
 
+![Node.js CI](https://github.com/supreme-majesty/swiftsmsgh-node/actions/workflows/ci.yml/badge.svg)
+![npm version](https://img.shields.io/npm/v/swiftsmsgh-api-sdk.svg)
+![License](https://img.shields.io/npm/l/swiftsmsgh-api-sdk.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-enabled-blue.svg)
+![Node.js](https://img.shields.io/badge/Node.js-20.x%2B-green)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Issues Welcome](https://img.shields.io/badge/Issues-welcome-brightgreen.svg)
+
 The Swiftsms-GH Node.js library provides a convenient way to interact with the Swiftsms-GH API from applications written in server-side JavaScript (Node.js). It includes a modular, resource-based class structure.
 
 ## Documentation
