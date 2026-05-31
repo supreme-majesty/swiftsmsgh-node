@@ -22,8 +22,3 @@ factory.SwiftsmsException = SwiftsmsException;
 
 export default factory;
 
-// Support CommonJS: const client = require('swiftsmsgh-api-sdk')(token, senderId)
-module.exports = factory;
-module.exports.default = factory;
-module.exports.Swiftsmsgh = Swiftsmsgh;
-module.exports.SwiftsmsException = SwiftsmsException;
